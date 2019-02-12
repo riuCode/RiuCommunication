@@ -3,6 +3,8 @@ Repository for the riuCommunication project which would be a web page with news 
 
 RiuComunnication is meant to be a system to involve left-wing activist from around the globe.  
 
+PD: TE quiero Nicolita
+
 
 
 
